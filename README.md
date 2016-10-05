@@ -1,5 +1,7 @@
 # Number To Words (French version)
 
+### Bt Joel Delight and Wolfgang Warneke June 2016
+
 ## Specifications
 
 ### Return Word For 0
